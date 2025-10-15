@@ -1,0 +1,9 @@
+[INFO ] 2025-09-16 17:10:50.766 [main] Log4JDemo - This is information message 
+[ERROR] 2025-09-16 17:10:50.772 [main] Log4JDemo - This is Error message 
+[WARN ] 2025-09-16 17:10:50.773 [main] Log4JDemo - This is Warning message 
+[FATAL] 2025-09-16 17:10:50.774 [main] Log4JDemo - this is a fatal message 
+[TRACE] 2025-09-16 17:12:50.650 [main] Log4JDemo - This is trace message 
+[INFO ] 2025-09-16 17:12:50.659 [main] Log4JDemo - This is information message 
+[ERROR] 2025-09-16 17:12:50.662 [main] Log4JDemo - This is Error message 
+[WARN ] 2025-09-16 17:12:50.662 [main] Log4JDemo - This is Warning message 
+[FATAL] 2025-09-16 17:12:50.664 [main] Log4JDemo - this is a fatal message 
